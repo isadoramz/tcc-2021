@@ -1,7 +1,7 @@
 ## Mapeamento das Personas
- - Consumidor: Cliente que irá consumir as refeições
+ - Adotante/Voluntário: Usuário que irá selecionar um pet/caso de voluntariado e entrará em contato com o responsável
  
- - Chef: Quem irá cozinhar os pratos a serem entregues
+ - Responsável pela publicação: Fará o cadastro de um pet para adoção ou de um caso de voluntariado para que outras pessoas possam entrar em contato com ele
  
 ## História de Usuário - _três aspectos críticos ( 3Cs)_
 
