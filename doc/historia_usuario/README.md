@@ -31,19 +31,3 @@
 **Como** usuário da plataforma
 **Quero** cadastrar um caso de voluntariado para exibição na listagem de casos
 **Para** que pessoas possam entrar em contato comigo para se voluntariar
-
-
-__
-
-
-## CENÁRIOS
-
-**Cenário 1: XYZ**
-
-**Dado que** ?? 
-
-**Quando**   ??
-
-**Então**    ??
-
-__

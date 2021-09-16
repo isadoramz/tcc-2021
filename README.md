@@ -4,10 +4,8 @@ Quando queremos adotar um animal para fazer parte da nossa família, podemos pro
 ## Descrição da solução
 A plataforma 4PET tem como objetivo facilitar a adoção de animais e a procura por voluntários para auxiliarem no cuidado de animais em instituições não-governamentais. Reunindo em um só lugar todos os pets cadastrados com suas informações e a melhor maneira para entrar em contato com a instituição responsável ou com o próprio dono do animal, conseguimos transformar a busca pelo seu pet mais rápida e prática. A plataforma também possibilita que pessoas voluntárias encontrem casos cadastrados por ONGs que necessitem de auxílio.
 
-## [Trello](https://trello.com/b/jVwKcctr/tcc)
-
-## [Diagramas](/doc/tecnica/README.md) 
-
 ## [Histórias de Usuário](/doc/historia_usuario/README.md)
 
-## [Prototipação](/doc/prototipacao/README.md)
+## [Repositório Front-End](https://github.com/isadoramz/tcc-frontend)
+
+## [Repositório Back-End](https://github.com/isadoramz/tcc-api)
